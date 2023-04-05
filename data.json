@@ -1,0 +1,28 @@
+{
+  "Posts": {
+    "-NPsBKwPOqJpKOOHmQ_j": {
+      "coordinates": "37.4220127; -122.0839973",
+      "description": "Test Image",
+      "latitude": 28.609920501708984,
+      "longitude": -23.96944236755371,
+      "picture": "https://firebasestorage.googleapis.com/v0/b/abiridata-30f36.appspot.com/o/landmark_images%2F1898416725?alt=media&token=ada0334b-fb96-43c5-8e1d-564fbe56925d",
+      "postKey": "-NPsBKwPOqJpKOOHmQ_j",
+      "timeStamp": 1678127491481,
+      "title": "The Ocean",
+      "userId": "Ge3ypK544nZy3zPPPJUVCAs9Sqg1",
+      "userName": "test"
+    },
+    "-NPsBKwPOqJpKOOHm": {
+      "coordinates": "37.4220127; -122.0839973",
+      "description": "Test Image",
+      "latitude": 28.609920501708984,
+      "longitude": -23.96944236755371,
+      "picture": "https://firebasestorage.googleapis.com/v0/b/abiridata-30f36.appspot.com/o/landmark_images%2F1898416725?alt=media&token=ada0334b-fb96-43c5-8e1d-564fbe56925d",
+      "postKey": "-NPsBKwPOqJpKOOHmQ_j",
+      "timeStamp": 1678127491481,
+      "title": "The Ocean",
+      "userId": "Ge3ypK544nZy3zPPPJUVCAs9Sqg1",
+      "userName": "test"
+    }
+  }
+}
